@@ -4,8 +4,7 @@ import './SpecialMenu.css';
 import { images, data } from '../../constants';
 import { SubHeading, MenuItem } from '../../components';
 
-// not sure 
-
+// not sure why
 
 const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
